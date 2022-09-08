@@ -1,0 +1,17 @@
+{
+  "name": "sst-regression",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-eventbridge": "^3.165.0"
+  },
+  "devDependencies": {
+    "@serverless-stack/cli": "1.11.1",
+    "@serverless-stack/resources": "1.11.1",
+    "@tsconfig/node14": "^1.0.3",
+    "@types/aws-lambda": "^8.10.102",
+    "aws-cdk-lib": "2.32.0",
+    "constructs": "^10.1.71",
+    "typescript": "^4.3.5"
+  }
+}
